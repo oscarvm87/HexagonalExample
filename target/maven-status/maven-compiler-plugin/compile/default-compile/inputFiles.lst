@@ -1,0 +1,10 @@
+D:\Clases\Superprof\HexagonalExample\src\main\java\com\example\hexagonal\infrastructure\repository\config\UserConfig.java
+D:\Clases\Superprof\HexagonalExample\src\main\java\com\example\hexagonal\infrastructure\rest\mapper\UserMapper.java
+D:\Clases\Superprof\HexagonalExample\src\main\java\com\example\hexagonal\HexagonalApplication.java
+D:\Clases\Superprof\HexagonalExample\src\main\java\com\example\hexagonal\domain\UserRecord.java
+D:\Clases\Superprof\HexagonalExample\src\main\java\com\example\hexagonal\domain\dto\UserDTO.java
+D:\Clases\Superprof\HexagonalExample\src\main\java\com\example\hexagonal\domain\User.java
+D:\Clases\Superprof\HexagonalExample\src\main\java\com\example\hexagonal\infrastructure\repository\UserRepo.java
+D:\Clases\Superprof\HexagonalExample\src\main\java\com\example\hexagonal\application\FindUserByIdUseCase.java
+D:\Clases\Superprof\HexagonalExample\src\main\java\com\example\hexagonal\application\repostiory\UserRepository.java
+D:\Clases\Superprof\HexagonalExample\src\main\java\com\example\hexagonal\infrastructure\rest\UserController.java

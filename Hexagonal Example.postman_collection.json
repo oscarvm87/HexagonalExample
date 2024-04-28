@@ -1,0 +1,31 @@
+{
+	"info": {
+		"_postman_id": "0be07c0f-c4c0-4570-b018-028a9240bf33",
+		"name": "Hexagonal Example",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "3588214",
+		"_collection_link": "https://blue-meadow-1518.postman.co/workspace/Superprof-Ismael-LocalGuide~d19718aa-8205-414e-b9ec-e2ddbf874583/collection/3588214-0be07c0f-c4c0-4570-b018-028a9240bf33?action=share&source=collection_link&creator=3588214"
+	},
+	"item": [
+		{
+			"name": "FindUserById",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/users/9",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"users",
+						"9"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
